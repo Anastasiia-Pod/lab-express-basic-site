@@ -1,0 +1,75 @@
+  #titleAbout {
+    font-size: 48px;
+    color: #333933;
+}
+
+
+#descAbout {
+    font-size: 36px;
+    color: #666;
+}
+
+
+#owl {
+    width: 600px;
+    height: 400px;
+}
+
+#home-link,
+#works-link {
+    color: #333933;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+#home-link:hover,
+#works-link:hover {
+    text-decoration: underline;
+}
+
+#titleWorks {
+font-size: 48px;
+color: #333933; 
+}
+
+#descWorks {
+  font-size: 36px;
+  color: #666;
+}
+
+#dog {
+  width: 600px;
+  height: 400px;
+}
+
+#home-linkWorks,
+#about-link {
+    color: #333933;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+#home-linkWorks:hover,
+#about-link:hover {
+    text-decoration: underline;
+}
+
+#welcome {
+  font-size: 36px;
+  color: #666;
+}
+
+#home-about,
+#home-works {
+  color: #333933;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-size: 24px;
+}
+
+#home-about:hover,
+#home-works:hover {
+text-decoration: underline;
+}
